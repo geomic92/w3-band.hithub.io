@@ -305,6 +305,7 @@ button.submit:hover {
     font-size: 20px;
     color: #000;
     margin-left: 8px;
+    padding: 0px 8px;
 }.footer-top {
     margin: 15px 0px;
 }
@@ -313,6 +314,6 @@ button.submit:hover {
     color: rgba(0, 0, 0, 0.4);
 }
 .footer-top p {
-    font-size: 15px;
+    font-size: 20px;
     color: rgba(0, 0, 0, 0.6);
 }
