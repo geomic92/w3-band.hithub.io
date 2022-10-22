@@ -1,0 +1,53 @@
+  
+@media(min-width:1024px){
+
+}
+@media(min-width:740px) and (max-width : 1023px){
+
+}
+@media (max-width : 739px){
+    .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .header {
+        overflow: hidden;
+
+    }
+    .header .nav {
+        display: block;
+    }
+    .header .subnav {
+        background-color: #000;
+        position: static;
+    }
+    .subnav > li > a {
+        color: #fff;
+        font-size: 20px;
+        padding: 5px 42px;
+    }
+    .header > ul > li {
+        display: block;
+    }
+    .header > ul > li:first-child {
+        display: inline-block;
+    }
+    .header .search-btn {
+        display: none;
+    }
+    .header .mobile-menu {
+        display: block;
+    }
+    .s-col-full {
+        width: 100%;
+    }
+    .place-list {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    .contact-list {
+        padding-left: 8px;
+    }
+}
+
+      
