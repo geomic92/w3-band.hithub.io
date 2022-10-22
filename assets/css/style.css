@@ -154,6 +154,7 @@ li:hover.search a{
 .text-slider p.text-span{
     padding-bottom: 12px;
     padding-top: 20px;
+    text-shadow: 0 0 1px #000;
 }
 /* --------------Begin Class Content------------- */
 

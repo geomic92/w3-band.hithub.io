@@ -5,7 +5,7 @@
 @media(min-width:740px) and (max-width : 1023px){
 
 }
-@media (max-width : 739px){
+@media (max-width : 46.1875em){
     .row {
         margin-left: 0px;
         margin-right: 0px;
@@ -55,6 +55,7 @@
     }
     [class^="ti-"] {
         margin-top: 8px;
+        line-height: 1.4 !important;
     }
     input[type=text] {
         margin-top: 16px;
