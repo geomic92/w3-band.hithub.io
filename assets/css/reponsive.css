@@ -10,6 +10,7 @@
         margin-left: 0px;
         margin-right: 0px;
     }
+    
     .header {
         overflow: hidden;
 
@@ -47,6 +48,16 @@
     }
     .contact-list {
         padding-left: 8px;
+    }
+    .ticket {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    [class^="ti-"] {
+        margin-top: 8px;
+    }
+    input[type=text] {
+        margin-top: 16px;
     }
 }
 
